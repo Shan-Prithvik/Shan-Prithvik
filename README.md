@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shan-Prithvik
+- 👀 I’m interested in Developing
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me +94774426373
